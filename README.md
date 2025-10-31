@@ -46,4 +46,5 @@ The project also includes a 15-day Sales Forecast, based on two years of histori
 - Profit : 27.45k
 - AvgDelievry Days : 4
 
-  
+## Screenshot
+Show how the Dashboard looks like : https://github.com/ap6808959-netizen/Power-Bi-sales-Dashboard-/blob/main/screenshot%20store%20sales%20Dashboard.png
