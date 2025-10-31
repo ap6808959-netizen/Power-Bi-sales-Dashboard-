@@ -31,7 +31,7 @@ The project also includes a 15-day Sales Forecast, based on two years of histori
 - Map : state-wise sales and profit distribution.
 - Forecast Visualization : 15-Day Sales Forecast using Two Years of Historical Data.
 
-  ## Insights
+## Insights
 - Payment Mode: Cash on Delivery (COD) recorded the highest sales, showing customers prefer post-delivery payments over online methods.
 - Sales by Segment: The Consumer segment leads with 48% of total sales, followed by Corporate and Home Office.
 - Monthly Trends: Sales peaked in September, November, and December, while profits were highest in October and December.
@@ -39,5 +39,11 @@ The project also includes a 15-day Sales Forecast, based on two years of histori
 - Subcategory Performance: Phones ranked top in sales (≈0.20M), outperforming Chairs, Binders, and Storage.
 - Ship Mode: Standard Class accounted for the largest share of shipments, reflecting a preference for economical delivery.
 - Sales Forecast: A 15-day sales forecast based on two years of data indicates a steady upward trend, suggesting consistent business growth in the upcoming period.
+
+## Highlights of the project
+- Sales : 341.01k
+- Quantity : 5239
+- Profit : 27.45k
+- AvgDelievry Days : 4
 
   
