@@ -47,4 +47,5 @@ The project also includes a 15-day Sales Forecast, based on two years of histori
 - AvgDelievry Days : 4
 
 ## Screenshot
-Show how the Dashboard looks like : https://github.com/ap6808959-netizen/Power-Bi-sales-Dashboard-/blob/main/screenshot%20store%20sales%20Dashboard.png
+How the Store Sales Dashboard looks like : https://github.com/ap6808959-netizen/Power-Bi-sales-Dashboard-/blob/main/screenshot%20store%20sales%20Dashboard.png
+How the Store Sales Forecast looks like : https://github.com/ap6808959-netizen/Power-Bi-sales-Dashboard-/blob/main/screenshot%20Store%20sales%20Forecasting.png
